@@ -1,7 +1,7 @@
 {
-  "name": "netlify-plugin-image-optim",
+  "name": "netlify-plugin-optimise-images",
   "version": "0.3.0",
-  "description": "Optimize images as part of your Netlify build process.",
+  "description": "Optimise images as part of your Netlify build process.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +10,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chrisdwheatley/netlify-plugin-image-optim.git"
+    "url": "git+https://github.com/aliblackwell/netlify-plugin-optimise-images.git"
   },
   "bugs": {
-    "url": "https://github.com/chrisdwheatley/netlify-plugin-image-optim/issues"
+    "url": "https://github.com/aliblackwell/netlify-plugin-optimise-images/issues"
   },
   "dependencies": {
     "boxen": "^4.2.0",
