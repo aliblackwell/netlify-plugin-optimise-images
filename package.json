@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Alasdair Blackwell",
+  "author": "Chris Draycott-Wheatley",
   "license": "MIT",
   "repository": {
     "type": "git",
